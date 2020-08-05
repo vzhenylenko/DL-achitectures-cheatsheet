@@ -8,7 +8,10 @@ Cheatsheet with popular architectures in several domains and code examples
 1.3. GAN (Generative Adversarial Network)  
 1.3.1. CycleGAN  
 1.4. RNN (Recurrent Neural Network)  
-1.5. Siamese Network (metric learning)
+1.4.1. LSTM (Long Short Term Memory)
+1.4.2. GRU (Gated Reccurent Unit)
+1.5. Siamese Network (metric learning)  
+1.6 Attention Mechanism
 
 ## 2. Computer Vision Classification
 1. CNN  

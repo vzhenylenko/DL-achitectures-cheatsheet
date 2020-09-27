@@ -5,15 +5,36 @@ Cheatsheet with popular architectures in several domains and code examples
 | Architecture name | Short description | Domain, where introduced | Image | Paper |
 | :---         |     :---:      |          ---: |   ---    |   ---    |
 | **General** |  |  |  |  |
-| Architecture name | Short description | Domain, where introduced | Image | Paper |
 | MLP (Multi Layer Perceptron) |  |  |  |  |
 | VAE (Variational Auto Encoder)  |  |  |  |  |
 | GAN (Generative Adversarial Network)   |  |  |  |  |
 | CycleGAN |  |  |  |  |
 | Siamese Network (metric learning) |  |  |  |  |
 | Attention Mechanism |  |  |  |  |
+| **Images** |  |  |  |  |
+| CNN |  |  |  |  |
+| ResNet |  |  |  |  |
+| Inception |  |  |  |  |
+| U-Net |  |  |  |  |
+| **Images (localization)** |  |  |  |  |
+| Multi Shot Detection|  |  |  |  |
+| Singlle Shot Detection|  |  |  |  |
+| **Images (Segmentation)** |  |  |  |  |
+| **Sequence modelling** |  |  |  |  |
+| RNN (Recurrent Neural Network)|  |  |  |  |
+| LSTM (Long Short Term Memory)|  |  |  |  |
+| GRU (Gated Reccurent Unit)|  |  |  |  |
+| **Natural language processing** |  |  |  |  |
+| Transformers|  |  |  |  |
+| **Graphs** |  |  |  |  |
+| DGNet|  |  |  |  |
+| **Point Clouds** |  |  |  |  |
+| PointNet|  |  |  |  | 
+| **Other** |  |  |  |  |
+| WReNet (Wild Relational Network) |  |  |  |  |
+| |  |  |  |  |
 
-
+<!---
 ## 1. General
 1. MLP (Multi Layer Perceptron)  
 2. VAE (Variational Auto Encoder)  
@@ -51,3 +72,4 @@ Cheatsheet with popular architectures in several domains and code examples
 
 ## 8. Relations
 1. WReNet (Wild Relational Network)
+-->

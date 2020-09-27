@@ -2,30 +2,43 @@
 (under development)  
 Cheatsheet with popular architectures in several domains and code examples
 
-## 1. General
-1.1. MLP (Multi Layer Perceptron)  
-1.2. VAE (Variational Auto Encoder)  
-1.3. GAN (Generative Adversarial Network)  
-1.3.1. CycleGAN  
-1.4. RNN (Recurrent Neural Network)  
-1.4.1. LSTM (Long Short Term Memory)
-1.4.2. GRU (Gated Reccurent Unit)
-1.5. Siamese Network (metric learning)  
-1.6 Attention Mechanism
+| Architecture name | Short description | Domain, where introduced | Image | Paper |
+| :---         |     :---:      |          ---: |   ---    |   ---    |
+| **General** |  |  |  |  |
+| Architecture name | Short description | Domain, where introduced | Image | Paper |
+| MLP (Multi Layer Perceptron) |  |  |  |  |
+| VAE (Variational Auto Encoder)  |  |  |  |  |
+| GAN (Generative Adversarial Network)   |  |  |  |  |
+| CycleGAN |  |  |  |  |
+| Siamese Network (metric learning) |  |  |  |  |
+| Attention Mechanism |  |  |  |  |
 
-## 2. Computer Vision Classification
+
+## 1. General
+1. MLP (Multi Layer Perceptron)  
+2. VAE (Variational Auto Encoder)  
+3. GAN (Generative Adversarial Network)  
+    1. CycleGAN  
+4. Siamese Network (metric learning)  
+5. Attention Mechanism
+
+## 2. Images 
 1. CNN  
 2. ResNet  
 3. Inception  
 4. U-Net
 
-## 3. Computer Vision Localization
+## 3. Images (Localization)
 1. Multi Shot Detection
 2. Single Shot Detection  
 
-## 4. Computer Vision Segmentation
+## 4. Images (Segmentation)
 
-
+## 5. Sequence modelling
+1. RNN (Recurrent Neural Network)  
+   1. LSTM (Long Short Term Memory)
+   2. GRU (Gated Reccurent Unit)
+    
 ## 5. NLP (Natural Language Processing)
 1. Transformers  
 

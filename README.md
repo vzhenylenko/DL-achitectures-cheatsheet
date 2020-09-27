@@ -3,16 +3,16 @@
 Cheatsheet with popular architectures in several domains and code examples
 
 | Architecture name | Short description | Domain, where introduced | Image | Paper |
-| :---         |     :---:      |          ---: |   ---    |   ---    |
+| ---         |     ---      |          --- |   ---    |   ---    |
 | **General** |  |  |  |  |
-| MLP (Multi Layer Perceptron) |  |  |  |  |
+| MLP (Multi Layer Perceptron) | basic fully connected neural net, nonlinearities and depth and width of network allow to learn hierarchical distributed representations| general |  |  |
 | VAE (Variational Auto Encoder)  |  |  |  |  |
 | GAN (Generative Adversarial Network)   |  |  |  |  |
 | CycleGAN |  |  |  |  |
 | Siamese Network (metric learning) |  |  |  |  |
 | Attention Mechanism |  |  |  |  |
 | **Images** |  |  |  |  |
-| CNN |  |  |  |  |
+| CNN |  | digit recognizing |  |  |
 | ResNet |  |  |  |  |
 | Inception |  |  |  |  |
 | U-Net |  |  |  |  |
@@ -32,7 +32,6 @@ Cheatsheet with popular architectures in several domains and code examples
 | PointNet|  |  |  |  | 
 | **Other** |  |  |  |  |
 | WReNet (Wild Relational Network) |  |  |  |  |
-| |  |  |  |  |
 
 <!---
 ## 1. General
